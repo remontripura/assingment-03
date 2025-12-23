@@ -1,5 +1,5 @@
 ### 01 - Inner Join
-&#10003; In the bookings table, data is joined using an inner join, which makes it very easy to see which users have booked which vehicles.  
+&#10003; In the bookings table, data is joined using an inner join, which makes it very easy to see which users have booked which vehicles.              
 
 ### 02 - NOT EXISTS
 &#10003; The NOT EXISTS clause is used to retrieve all vehicles that have never been booked.  
